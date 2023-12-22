@@ -1,1 +1,1 @@
-npm install, npm start, npm run nombre-del-script
+npm install, npm start, npm run dev
